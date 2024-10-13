@@ -7,13 +7,10 @@
 - ⚡ Fun fact: ... bamboo is my companion species
 - 
 -
-- “I am not proposing a return to the Stone Age. My intent is not reactionary, nor even conservative, but simply subversive. It seems that the utopian imagination is trapped, like capitalism and industrialism and the human population, in a one-way future consisting only of growth. All I’m trying to do is figure out how to put a pig on the tracks.”
+- “I am not proposing a return to the Stone Age. My intent is not reactionary, nor even conservative, but simply subversive. It seems that the utopian imagination is trapped, like capitalism and industrialism and the human population, in a one-way future consisting only of growth. All I’m trying to do is figure out how to put a pig on the tracks.”- Ursula Le Guin
 
-―                                                                                         Ursula K. Le Guin
-
-
-- "The ultimate hidden truth of the world is that it is something we make and could just as easily make differently."
--                                                                                         David Graeber, Utopia of Rules
+- "The ultimate hidden truth of the world is that it is something we make and could just as easily make differently."- David Graeber
+-                                                                                         
 <!---
 pampascual/pampascual is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
